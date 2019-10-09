@@ -1,0 +1,12 @@
+body {
+   margin: 0;
+   width: 100%; 
+   position: relative;  
+   background: #333;
+}
+
+span {
+    font-size: 12px;    
+    position: absolute;
+    color: #0d0;
+}
